@@ -1,0 +1,156 @@
+@media (min-width: 768px) {
+    .p{display: none;}
+    .m{display: none;}
+    .t{display: block;}
+
+
+    .banner .wrap .text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: absolute;
+        top: 38%;
+        left: 10%;
+        transform: translateY(-50%);
+    }
+    
+    .banner .wrap .text h1{
+        font-size: 2.3rem;
+        font-weight: lighter;
+        text-align: left;
+    }
+    
+    .banner .wrap .text h1 span{
+        font-weight: bolder;
+        color: #d9534f;
+    }
+    
+    .banner .wrap .text h2{
+        color: #D9534F;
+        font-size: 7rem;
+        font-weight: bolder;
+    }
+    
+    .banner .wrap .text h2 span{
+        color: #38d6bf;
+    }
+    
+    .banner .wrap .text p{
+        text-align: left;
+        font-size: 1.5rem;
+        
+    }
+
+    .banner .wrap .down{
+        font-size: 2rem;
+        padding-left: 20px;
+    }
+
+    .section1 .wrap{
+        padding-top: 100px;
+        padding-right: 100px;
+        padding-left: 100px;
+        padding-bottom: 100px;
+    }
+
+    .section1 .wrap .box{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .section2 .wrap {
+        padding-bottom: 100px;
+    }
+    
+    .section2 .wrap .text h1{
+        font-weight: lighter;
+        font-size: 3rem;
+    }
+    
+    .section2 .wrap .text h2{
+        font-weight: bolder;
+        font-size: 3.2rem;
+    }
+    
+    .section2 .wrap .text p{
+        font-weight: lighter;
+        font-size: 2rem;
+        padding-top: 5px;
+    }
+
+    .content1, .content2, .content3, .content4, .content5, .content6{
+        display: flex;
+        padding: 0 40px;
+        padding-top: 100px;
+    }
+
+    .content1, .content3, .content5{
+        flex-direction: row-reverse;
+    }
+
+    .content3{
+        padding-bottom: 50px;
+    }
+
+    .content1 .photo, .content2 .photo, .content3 .photo, .content4 .photo, .content5 .photo{
+        width: 100%;
+    }
+
+    .content1 .text, .content2 .text, .content3 .text, .content4 .text, .content5 .text, .content6 .text{
+        width: 50%;
+        padding-bottom: 120px;
+        white-space: nowrap;
+    }
+
+    .content2 .photo img, .content5 .photo img{
+        width: 100%;
+    }
+
+    .section2 .text h1{
+        color: white;
+    }
+
+    .text h1{
+        color: #D9534F; 
+        font-size: 4rem;
+    }
+    
+    .text h2{
+        font-weight: bolder;
+        font-size: 4rem;
+    }
+    
+    .text p{
+        text-align: left;
+        font-size: 2.5rem;
+        padding-top: 20px;
+
+    }
+
+    .content6{
+        padding-top: 0px;
+    }
+
+    .content4 .photo img{
+        width: 80%;
+    }
+
+    .content6 .photo img{
+        width: 100%;
+        padding-left: 50px;
+        transform: scale(1.5);
+    }
+
+    .content6 .photo{
+        width: 80%;
+    }
+
+    .content1{
+        margin-top: 100px;
+    }
+
+    .content1 .photo img{
+        width: 100%;
+    }
+
+}
