@@ -301,12 +301,12 @@ html{font-size: 62.5%;}
 
 .wrap .text h1{
     font-weight: lighter;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .wrap .text h2{
     font-weight: bolder;
-    font-size: 2rem;
+    font-size: 1.2rem;
 }
 
 .wrap .text p{
@@ -392,7 +392,7 @@ html{font-size: 62.5%;}
 
 .text h1{
     color: #D9534F; 
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .text h2{
