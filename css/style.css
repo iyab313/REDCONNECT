@@ -6,6 +6,7 @@
     text-decoration: none;
     box-sizing: border-box;
     font-family: 'Pretendard-Regular';
+    line-height: 140%; 
 }
 
 img{display: block; max-width: 100%;}
