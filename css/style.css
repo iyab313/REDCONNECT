@@ -292,11 +292,11 @@ html{font-size: 62.5%;}
 
 .section2 .wrap .text h1{
     color: white;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
 }
 
 .section2 .wrap .text h2{
-    font-size: 1.2rem;
+    font-size: 1.4rem;
 }
 
 .wrap .text h1{
@@ -392,17 +392,17 @@ html{font-size: 62.5%;}
 
 .text h1{
     color: #D9534F; 
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .text h2{
     font-weight: bolder;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .text p{
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.5rem;
     padding-top: 20px;
 }
 
@@ -472,9 +472,9 @@ footer .wrap .CRM h2{
 footer .wrap .CRM h3{
     color: #d9534f;
     padding-right: 10px;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 footer .wrap .CRM p{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
