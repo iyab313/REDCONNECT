@@ -303,6 +303,7 @@ html{font-size: 62.5%;}
 
 .section2 .wrap .text p{
     font-size: 2rem;
+    white-space: nowrap;
 }
 
 .wrap .text h1{
