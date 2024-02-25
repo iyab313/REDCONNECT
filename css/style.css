@@ -305,17 +305,17 @@ html{font-size: 62.5%;}
 
 .wrap .text h1{
     font-weight: lighter;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 .wrap .text h2{
     font-weight: bolder;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
 }
 
 .wrap .text p{
     font-weight: lighter;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     padding-top: 5px;
 }
 
