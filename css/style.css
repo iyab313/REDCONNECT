@@ -468,6 +468,7 @@ footer .wrap .CRM{
     height: 50px;
     align-items: center;
     justify-content: center;
+    padding-left: 10px;
 
 }
 
@@ -475,12 +476,14 @@ footer .wrap .CRM h2{
     padding-right: 10px;
     font-weight: bolder;
     font-size: 1rem;
+    white-space: nowrap;
 }
 
 footer .wrap .CRM h3{
     color: #d9534f;
     padding-right: 10px;
     font-size: 1rem;
+    white-space: nowrap;
 }
 
 footer .wrap .CRM p{
