@@ -299,6 +299,10 @@ html{font-size: 62.5%;}
     font-size: 1.4rem;
 }
 
+.section2 .wrap .text p{
+    font-size: 2rem;
+}
+
 .wrap .text h1{
     font-weight: lighter;
     font-size: 1.5rem;
