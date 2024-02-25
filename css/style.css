@@ -455,7 +455,7 @@ footer .wrap .link li{
 footer .wrap .bottom{
     text-align: center;
     padding-top: 30px;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     padding-bottom: 30px;
 }
 
@@ -473,12 +473,13 @@ footer .wrap .CRM{
 footer .wrap .CRM h2{
     padding-right: 10px;
     font-weight: bolder;
+    font-size: 1.2rem;
 }
 
 footer .wrap .CRM h3{
     color: #d9534f;
     padding-right: 10px;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 footer .wrap .CRM p{
