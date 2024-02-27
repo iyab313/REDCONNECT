@@ -4,12 +4,32 @@
     .t{display: block;}
 
 
+    header .wrap nav .inner .link li a{
+        font-size: 2rem;
+    }
+
+    header .wrap nav .inner .gnb li a{
+        font-size: 2rem;
+    }
+
+    header .wrap nav .inner .bottom .text h2{
+        font-size: 2rem;
+    }
+
+    header .wrap nav .inner .bottom .text h3{
+        font-size: 2rem;
+    }
+
+    header .wrap nav .inner .bottom .text p{
+        font-size: 1.5rem;
+    }
+
     .banner .wrap .text{
         display: flex;
         flex-direction: column;
         align-items: center;
         position: absolute;
-        top: 38%;
+        top: 42%;
         left: 10%;
         transform: translateY(-50%);
     }
@@ -42,7 +62,7 @@
     }
 
     .banner .wrap .down{
-        font-size: 2rem;
+        font-size: 1.8rem;
         padding-left: 20px;
     }
 
@@ -60,6 +80,10 @@
 
     .section2 .wrap {
         padding-bottom: 100px;
+    }
+
+    .section2 .wrap .text{
+        top: 30%;
     }
     
     .section2 .wrap .text h1{
@@ -81,7 +105,11 @@
     .content1, .content2, .content3, .content4, .content5, .content6{
         display: flex;
         padding: 0 40px;
-        padding-top: 100px;
+        padding-top: 200px;
+    }
+
+    .content3{
+        padding-top: 150px;
     }
 
     .content1, .content3, .content5{
@@ -89,7 +117,11 @@
     }
 
     .content3{
-        padding-bottom: 50px;
+        padding-bottom: 150px;
+    }
+
+    .content4, .content5{
+        padding-top: 250px;
     }
 
     .content1 .photo, .content2 .photo, .content3 .photo, .content4 .photo, .content5 .photo{
@@ -98,8 +130,9 @@
 
     .content1 .text, .content2 .text, .content3 .text, .content4 .text, .content5 .text, .content6 .text{
         width: 50%;
-        padding-bottom: 120px;
+        margin-bottom: 70px;
         white-space: nowrap;
+        transform: translateY(-10%);
     }
 
     .content2 .photo img, .content5 .photo img{
@@ -112,12 +145,12 @@
 
     .text h1{
         color: #D9534F; 
-        font-size: 4rem;
+        font-size: 3rem;
     }
     
     .text h2{
         font-weight: bolder;
-        font-size: 4rem;
+        font-size: 3.2rem;
     }
     
     .text p{
@@ -127,9 +160,6 @@
 
     }
 
-    .content6{
-        padding-top: 0px;
-    }
 
     .content4 .photo img{
         width: 80%;
@@ -151,6 +181,26 @@
 
     .content1 .photo img{
         width: 100%;
+    }
+
+    footer .wrap .CRM h2{
+        font-size: 2rem;
+    }
+    
+    footer .wrap .CRM h3{
+        font-size: 2rem;
+    }
+    
+    footer .wrap .CRM p{
+        font-size: 1.8rem;
+    }
+    
+    footer .wrap .bottom{
+        font-size: 1.5rem;
+    }
+
+    footer .wrap .link{
+        font-size: 1.5rem;
     }
 
 }
